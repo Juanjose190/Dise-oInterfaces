@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Globe, Sun, Moon, Play, Image } from "lucide-react";
+
 
 export default function SettingsPage() {
   const [theme, setTheme] = useState("auto");
