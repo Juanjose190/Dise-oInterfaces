@@ -7,7 +7,7 @@ const Page = () => {
       <header>
         <Star className="w-16 h-16 mx-auto mb-8 text-[var(--primary)]" />
         <h1 className="text-7xl font-bold bg-gradient-to-r from-[var(--primary)] via-[var(--secondary)] to-[var(--primary)] text-transparent bg-clip-text mb-8">
-          Juan Jose Burbano
+          Juan Jose Burbano Bolaños
         </h1>
       </header>
 
